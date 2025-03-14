@@ -1,0 +1,7 @@
+-r requirements.txt
+jupyterlab==4.3.5
+jupyterlab-code-formatter
+black
+isort
+JLDracula
+kotlin-jupyter-kernel
